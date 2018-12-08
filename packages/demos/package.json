@@ -16,9 +16,9 @@
     "react-dom": "^15.3.0"
   },
   "dependencies": {
-    "compression": "^1.6.2",
-    "connect": "^3.4.1",
-    "serve-static": "^1.11.1",
+    "compression": "^1.7.1",
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.0",
     "styletron-client": "^3.0.0-rc.1",
     "styletron-react": "^3.0.0-rc.2",
     "styletron-server": "^3.0.0-rc.1",
