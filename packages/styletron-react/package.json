@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@types/react": "*",
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.6.2",
     "styletron-client": "^3.0.0-rc.1",
     "styletron-server": "^3.0.0-rc.1",
     "styletron-utils": "^3.0.0-rc.1"
